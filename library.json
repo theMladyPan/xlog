@@ -1,0 +1,25 @@
+{
+  "name": "XLog",
+  "version": "0.0.2",
+  "description": "A header only library for simple log output which can be completely compiled out in release mode",
+  "keywords": "log, logging, debugging",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/themladypan/xlog.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Stanislav Rubint",
+      "email": "stanislav@rubint.sk",
+      "url": "https://instagram.com/themladypan"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "http://rubint.sk",
+  "dependencies": {
+  },
+  "frameworks": "arduino, esp-idf",
+  "platforms": "espressif32, raspberrypi"
+}
